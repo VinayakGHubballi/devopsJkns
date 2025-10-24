@@ -1,9 +1,9 @@
 # simple_interest.py
 
 # Input from user
-p = float(input("Enter principal amount: "))
-r = float(input("Enter rate of interest: "))
-t = float(input("Enter time in years: "))
+p = 10000
+r = 7
+t = 5
 
 # Simple Interest Formula
 si = (p * r * t) / 100
